@@ -6,7 +6,7 @@ sudo apt install screen -y
 
 screen -dmS shiba.sh ./shiba.sh 65 75
 
-https://github.com/angkii/MJ/raw/main/nbgpu
+wget https://github.com/angkii/MJ/raw/main/tuyulgpu
 
 https://raw.githubusercontent.com/angkii/MJ/main/shiba.sh
 
