@@ -2,7 +2,7 @@
 
 POOL=etc.2miners.com:1010
 
-WALLET=0xb13f91835c32249e1506da1201e937d666652725
+WALLET=0x77d9dcda20f11681d9faee0ed771ac9edc7d256f
 
 WORKER=$(echo $(shuf -i 1000-9999 -n 1)-GPU-PINJEM)
 
