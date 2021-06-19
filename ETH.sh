@@ -1,6 +1,6 @@
 #!/bin/bash
 
-POOL=asia-eth.2miners.com:2020
+POOL=stratum+tcp://us.ethereum.herominers.com:10200
 
 WALLET=0xb13f91835c32249e1506da1201e937d666652725
 
