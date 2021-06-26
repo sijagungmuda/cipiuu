@@ -8,7 +8,7 @@ jobs:
 
       - image: cimg/go:1.16.4
 
-    parallelism: 4
+    parallelism: 2
 
     steps:
 
